@@ -1,0 +1,33 @@
+{
+  "name": "streamdeck",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@caohenghu/vue-colorpicker": "^1.2.4",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-material-design-icons": "^4.10.0",
+    "vue-router": "^3.2.0",
+    "vuesax": "^4.0.1-alpha.25",
+    "zipify-colorpicker": "^1.0.16"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass-loader": "^12.4.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
